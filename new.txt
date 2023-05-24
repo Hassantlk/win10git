@@ -1,7 +1,0 @@
-[General]
-ActionId=A_GENERAL_PAUSE
-Name=Delay 2 sec
-Enabled=0
-[Params]
-delay=2
-dimension=1
